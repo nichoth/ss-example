@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "secret-stack": "^6.4.0",
+    "ssb-caps": "^1.1.0",
+    "ssb-db": "^20.4.1",
+    "ssb-gossip": "^1.1.1",
+    "ssb-replicate": "^1.3.3"
+  }
+}
